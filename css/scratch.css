@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(230, 243, 247);
+}
+h1 {
+    font-size: Large;
+    color: rgb(193, 231, 231);
+}
+h2 {
+    font-size: medium;
+    color: rgb(228, 148, 148);
+}
+h3 {
+    font-size: small;
+    color: rgb(20, 20, 20);
+}
+.center {
+    display: block;
+    width: auto;
+}
+.margin {
+    margin: 5rem;
+}
+.f {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.italic {
+    font-style: italic;
+}
